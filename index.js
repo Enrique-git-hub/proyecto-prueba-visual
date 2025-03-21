@@ -1,4 +1,4 @@
-sol = 21
+sol = 19
 
 function whats9plus10(sol){
     switch (sol) {
